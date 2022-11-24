@@ -1,7 +1,4 @@
 # Microsoft Power BI and Python: Two Superpowers Combined
 
-These are supplemental materials for the Real Python [tutorial](https://realpython.com/power-bi-python/) on using Python in Microsoft Power BI Desktop. They include:
-
-- SQLite database with a single `sales` table (fake used car sales dataset)
-- Python scripts used in the tutorial
-- The resulting Power BI Desktop report
+This codes are based on Real Python tutorial. If yu want to get the full tutorial, [click here](https://realpython.com/power-bi-python/).
+Inside the python code there is a lot of annotations and commands to help you.
